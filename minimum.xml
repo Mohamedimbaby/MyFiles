@@ -10,7 +10,6 @@
                 <sparkle:version>2.0.0</sparkle:version>
                 <sparkle:shortVersionString>3.0.0</sparkle:shortVersionString>
                             <sparkle:minAppVersion>3.0.0</sparkle:minAppVersion>
-
                 <sparkle:minimumAutoupdateVersion>2.0.0</sparkle:minimumAutoupdateVersion>
             <enclosure url="https://play.google.com/store/apps/details?id=com.example.app" sparkle:version="3.0.0" sparkle:os="android" />
         </item>
